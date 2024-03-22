@@ -1,0 +1,2151 @@
+{
+    "count": 11944,
+    "num_pages": 1195,
+    "current_page_number": 1,
+    "next": "https://www.afisha.ru/rests/api/public/v1/restaurant/?city=2&page=2",
+    "next_page_number": 2,
+    "previous": null,
+    "previous_page_number": null,
+    "page_size": 10,
+    "results": [
+        {
+            "id": 174405,
+            "state": 0,
+            "name": "Mushrooms",
+            "url_slug": "mushrooms-174405",
+            "reviews_count": 3,
+            "abs_url": "/msk/restaurant/mushrooms-174405/",
+            "address": "Б.Якиманка, 22, ТЦ «Гименей», 2 этаж",
+            "description": "Проект ресторатора Бориса Зарькова (White Rabbit Family) на Большой Якиманке с бренд-шефом Владимиром Мухиным и шеф-поваром Федором Солодкиным. Концепция кухни итальянского ресторана построена вокруг грибов. Здесь есть и пицца из дровяной печи, и паста собственного приготовления, блюда с трюфелем и прочие постоянные, а также сезонные грибные позиции.",
+            "verdict": "Грибное место на Большой Якиманке",
+            "rating": 8.455,
+            "city_id": 2,
+            "has_selection": true,
+            "has_afisha_booking": true,
+            "afisha_booking_object": {
+                "is_active": true,
+                "widget_message": ""
+            },
+            "remarked_booking_object": null,
+            "has_tomesto": false,
+            "tomesto_url": "",
+            "tastyclub_data": null,
+            "latitude": 55.7383663,
+            "longitude": 37.6145556,
+            "likes": 243,
+            "dislikes": 36,
+            "open_date": "2016-01-14 00:00:00",
+            "main_photo_legacy": "https://s5.afisha.ru/mediastorage/de/f7/f91e3707d51c41fab12c84f9f7de.jpg",
+            "cover_images": {
+                "rest1894x1000": "https://img04.rl0.ru/afisha/1894x1000i/s1.afisha.ru/mediastorage/fc/05/4b6b908bf80d4eb18bdd1d1905fc.jpg",
+                "rest1064x1064": "https://img04.rl0.ru/afisha/1064x1064i/s1.afisha.ru/mediastorage/fc/05/4b6b908bf80d4eb18bdd1d1905fc.jpg"
+            },
+            "owner_info": {
+                "description": ""
+            },
+            "restaurant_type": "Ресторан",
+            "userdata": {
+                "is_favourite": false,
+                "like": 0,
+                "review_id": null,
+                "review_like": null
+            },
+            "menu_objects": [
+                {
+                    "type": "Винная карта",
+                    "href": "https://www.afisha.ru/uploads/menu/0/1/0d18e53f-546c-450f-b5b8-57a3422f0034.pdf"
+                },
+                {
+                    "type": "Main menu (eng)",
+                    "href": "https://www.afisha.ru/uploads/menu/4/9/4f98db78-859d-4247-9edc-145b2e5e2fe9.pdf"
+                },
+                {
+                    "type": "Основное меню",
+                    "href": "https://www.afisha.ru/uploads/menu/a/9/ad9ea442-bd3d-4c3e-b02f-01ee361bd57b.pdf"
+                }
+            ],
+            "working_hours_objects": [
+                {
+                    "day": "понедельник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "вторник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "среда",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "четверг",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "пятница",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "суббота",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "воскресенье",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                }
+            ],
+            "tags": {
+                "main_tag": {
+                    "id": 2930,
+                    "name": "Итальянская кухня",
+                    "url": "/msk/restaurants/restaurant_list/italian_kitchen/"
+                },
+                "cuisine": [
+                    {
+                        "id": 2750,
+                        "name": "Европейская кухня",
+                        "url": "/msk/restaurants/restaurant_list/european_cuisine/"
+                    },
+                    {
+                        "id": 2930,
+                        "name": "Итальянская кухня",
+                        "url": "/msk/restaurants/restaurant_list/italian_kitchen/"
+                    },
+                    {
+                        "id": 12978,
+                        "name": "Паста",
+                        "url": "/msk/restaurants/restaurant_list/pasta/"
+                    },
+                    {
+                        "id": 12981,
+                        "name": "Пицца",
+                        "url": "/msk/restaurants/restaurant_list/pizza/"
+                    }
+                ],
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "price_range": [
+                    0,
+                    1,
+                    2
+                ],
+                "metro": [
+                    {
+                        "id": 4498,
+                        "name": "Полянка",
+                        "url": "/msk/restaurants/restaurant_list/polyanka/",
+                        "hex_color": "ADACAC"
+                    }
+                ],
+                "searchable": [
+                    {
+                        "id": 2750,
+                        "name": "Европейская кухня",
+                        "url": "/msk/restaurants/restaurant_list/european_cuisine/"
+                    },
+                    {
+                        "id": 2930,
+                        "name": "Итальянская кухня",
+                        "url": "/msk/restaurants/restaurant_list/italian_kitchen/"
+                    },
+                    {
+                        "id": 12978,
+                        "name": "Паста",
+                        "url": "/msk/restaurants/restaurant_list/pasta/"
+                    },
+                    {
+                        "id": 12981,
+                        "name": "Пицца",
+                        "url": "/msk/restaurants/restaurant_list/pizza/"
+                    }
+                ]
+            },
+            "offer_special": null,
+            "offer_menu": null,
+            "offer_news": null,
+            "extra_info": {
+                "work_time": "пн-вс 10.00–0.00",
+                "phone": "+7 (495) 725 25 78",
+                "phone_list": [
+                    "+7 (495) 725 25 78"
+                ],
+                "email": "",
+                "site": "http://mushroomsmoscow.ru",
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "breakfast": "пн-вс 10.00–12.00",
+                "business_lunch": "",
+                "delivery": true,
+                "parking": true,
+                "has_banquet": true,
+                "catering": false
+            },
+            "is_advert": true
+        },
+        {
+            "id": 421793,
+            "state": 0,
+            "name": "Рыба моя",
+            "url_slug": "ryba-moia-421793",
+            "reviews_count": 3,
+            "abs_url": "/msk/restaurant/ryba-moia-421793/",
+            "address": "Цветной б-р, 2, БЦ «Легенда Цветного»",
+            "description": "Все те же два культа, что и в первой «Рыбе» на Тверской: первый, всерьез, — культ качественных морепродуктов по нормальной, не вышибающей слезы цене, второй, в шутку, — самого Перельмана, чья задорная рыжая борода торчит здесь, кажется, отовсюду. Что же до рыбы, ее много, и она разная. Имеются демократичные блюда вроде форшмака и пельменей с северной креветкой, есть позиции роскошные, как тюрбо на гриле, и блюда, которыми можно накормить двоих, — например, фирменный томатный суп с креветками и кальмарами. Чтобы перепробовать все, надо ходить месяца два, причём каждый день.",
+            "verdict": "Филиал рыбного царства от Владимира Перельмана",
+            "rating": 9.4371,
+            "city_id": 2,
+            "has_selection": true,
+            "has_afisha_booking": false,
+            "afisha_booking_object": null,
+            "remarked_booking_object": null,
+            "has_tomesto": false,
+            "tomesto_url": "",
+            "tastyclub_data": null,
+            "latitude": 55.7679536,
+            "longitude": 37.6233644,
+            "likes": 163,
+            "dislikes": 12,
+            "open_date": "2020-06-16 00:00:00",
+            "main_photo_legacy": "https://s3.afisha.ru/mediastorage/c0/7f/22452d0bd72c47efb60fe19f7fc0.jpg",
+            "cover_images": {
+                "rest1894x1000": "https://img03.rl0.ru/afisha/1894x1000i/s4.afisha.ru/mediastorage/78/c9/43c95631de554e23b538aeabc978.jpg",
+                "rest1064x1064": "https://img03.rl0.ru/afisha/1064x1064i/s4.afisha.ru/mediastorage/78/c9/43c95631de554e23b538aeabc978.jpg"
+            },
+            "owner_info": {
+                "description": "Честный рыбный ресторан «Рыба моя» с богатым выбором свежей дикой рыбы собственного улова из Марокко, регулярными поставками лобстера из ОАЭ по самой лучшей цене в городе, суперстейком из лосося исполинских размеров с Фарерских островов, мидиями с крымского фермерского хозяйства и ещё дюжиной безупречных на вкус обитателей морских глубин.\r\n\r\n«Рыба моя» разрушает стереотип о том, что рыба и морские гады свежего улова — дорогое удовольствие. Это история про премиальный продукт, который на ваших глазах становится доступным» — говорит Владимир Перельман.\r\n\r\nСпецпредложение: «Добрые устрицы 210 р. за штуку» (10 р. от продажи каждой устрицы перечисляются в благотворительный фонд)\r\n\r\nВо всех ресторанах сети Perelman People — комплимент при заказе!"
+            },
+            "restaurant_type": "Ресторан",
+            "userdata": {
+                "is_favourite": false,
+                "like": 0,
+                "review_id": null,
+                "review_like": null
+            },
+            "menu_objects": [],
+            "working_hours_objects": [
+                {
+                    "day": "понедельник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "вторник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "среда",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "четверг",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "пятница",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "суббота",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "воскресенье",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1440
+                }
+            ],
+            "tags": {
+                "main_tag": {
+                    "id": 3185,
+                    "name": "Рыбные рестораны",
+                    "url": "/msk/restaurants/restaurant_list/fish_restaurants/"
+                },
+                "cuisine": [
+                    {
+                        "id": 2750,
+                        "name": "Европейская кухня",
+                        "url": "/msk/restaurants/restaurant_list/european_cuisine/"
+                    },
+                    {
+                        "id": 12978,
+                        "name": "Паста",
+                        "url": "/msk/restaurants/restaurant_list/pasta/"
+                    },
+                    {
+                        "id": 12984,
+                        "name": "Суши",
+                        "url": "/msk/restaurants/restaurant_list/sushi/"
+                    },
+                    {
+                        "id": 24334,
+                        "name": "Устрицы",
+                        "url": "/msk/restaurants/restaurant_list/oyster/"
+                    },
+                    {
+                        "id": 2939,
+                        "name": "Японская кухня",
+                        "url": "/msk/restaurants/restaurant_list/japanese_cuisine/"
+                    }
+                ],
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "price_range": [
+                    0,
+                    1,
+                    2
+                ],
+                "metro": [
+                    {
+                        "id": 4495,
+                        "name": "Цветной бульвар",
+                        "url": "/msk/restaurants/restaurant_list/tsvetnoy_bulvar/",
+                        "hex_color": "ADACAC"
+                    },
+                    {
+                        "id": 12407,
+                        "name": "Трубная",
+                        "url": "/msk/restaurants/restaurant_list/msk_trubnaya/",
+                        "hex_color": "BED12C"
+                    }
+                ],
+                "searchable": [
+                    {
+                        "id": 11387,
+                        "name": "Лучшее",
+                        "url": "/msk/restaurants/restaurant_list/thebest/"
+                    },
+                    {
+                        "id": 2750,
+                        "name": "Европейская кухня",
+                        "url": "/msk/restaurants/restaurant_list/european_cuisine/"
+                    },
+                    {
+                        "id": 12978,
+                        "name": "Паста",
+                        "url": "/msk/restaurants/restaurant_list/pasta/"
+                    },
+                    {
+                        "id": 12984,
+                        "name": "Суши",
+                        "url": "/msk/restaurants/restaurant_list/sushi/"
+                    },
+                    {
+                        "id": 24334,
+                        "name": "Устрицы",
+                        "url": "/msk/restaurants/restaurant_list/oyster/"
+                    },
+                    {
+                        "id": 2939,
+                        "name": "Японская кухня",
+                        "url": "/msk/restaurants/restaurant_list/japanese_cuisine/"
+                    },
+                    {
+                        "id": 3185,
+                        "name": "Рыбные рестораны",
+                        "url": "/msk/restaurants/restaurant_list/fish_restaurants/"
+                    }
+                ]
+            },
+            "offer_special": null,
+            "offer_menu": null,
+            "offer_news": null,
+            "extra_info": {
+                "work_time": "пн-вс 11.00–0.00",
+                "phone": "+7 (495) 120 88 53",
+                "phone_list": [
+                    "+7 (495) 120 88 53"
+                ],
+                "email": "pr@perelmanpeople.com",
+                "site": "http://ryba.msk.ru",
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "breakfast": "",
+                "business_lunch": "пн-пт 12.00–16.00",
+                "delivery": true,
+                "parking": true,
+                "has_banquet": true,
+                "catering": true
+            },
+            "is_advert": false
+        },
+        {
+            "id": 75769,
+            "state": 0,
+            "name": "Lao Lee Café",
+            "url_slug": "lao-lee-cafe-75769",
+            "reviews_count": 1,
+            "abs_url": "/msk/restaurant/lao-lee-cafe-75769/",
+            "address": "Миусская пл., 9, стр. 11",
+            "description": "Самое первое вьетнамское кафе с китайским названием на Миусской площади, ставшее предметом гастрономического культа, размножившееся в сеть и породившее бум «фошниц» в Москве. Крошечный закуток с открытой микрокухней, стойкой и парой столов сменило 500-метровое помещение с кофейней и студенческой столовой; легендарные очереди за целебными супами, впрочем, остались. Готовят всю положенную классику: 600-миллилитровые порции фо-бо и фо-га, несколько видов немов, паровые булочки бань-бао, рис и яичную лапшу с говядиной, курицей или морепродуктами. К каждому заказу дают бесплатный стакан зеленого чая.",
+            "verdict": "Идеальная вьетнамская забегаловка",
+            "rating": 9.36,
+            "city_id": 2,
+            "has_selection": true,
+            "has_afisha_booking": false,
+            "afisha_booking_object": null,
+            "remarked_booking_object": null,
+            "has_tomesto": false,
+            "tomesto_url": "",
+            "tastyclub_data": null,
+            "latitude": 55.7787023,
+            "longitude": 37.5964568,
+            "likes": 513,
+            "dislikes": 45,
+            "open_date": "2015-05-02 00:00:00",
+            "main_photo_legacy": "https://s4.afisha.ru/mediastorage/7f/4a/6253457347bf45c0911bbc614a7f.jpg",
+            "cover_images": {
+                "rest1894x1000": "https://img03.rl0.ru/afisha/1894x1000i/s.afisha.ru/mediastorage/43/0d/32526d228c414a35aca95ffb0d43.jpg",
+                "rest1064x1064": "https://img03.rl0.ru/afisha/1064x1064i/s.afisha.ru/mediastorage/43/0d/32526d228c414a35aca95ffb0d43.jpg"
+            },
+            "owner_info": {
+                "description": ""
+            },
+            "restaurant_type": "Ресторан",
+            "userdata": {
+                "is_favourite": false,
+                "like": 0,
+                "review_id": null,
+                "review_like": null
+            },
+            "menu_objects": [],
+            "working_hours_objects": [
+                {
+                    "day": "понедельник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "вторник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "среда",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "четверг",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "пятница",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "суббота",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "воскресенье",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "11:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 660,
+                    "time_end_v2": 1380
+                }
+            ],
+            "tags": {
+                "main_tag": {
+                    "id": 2866,
+                    "name": "Вьетнамская кухня",
+                    "url": "/msk/restaurants/restaurant_list/vietnamese_cuisine/"
+                },
+                "cuisine": [
+                    {
+                        "id": 12496,
+                        "name": "Вок",
+                        "url": "/msk/restaurants/restaurant_list/vok/"
+                    },
+                    {
+                        "id": 2866,
+                        "name": "Вьетнамская кухня",
+                        "url": "/msk/restaurants/restaurant_list/vietnamese_cuisine/"
+                    }
+                ],
+                "average_bill": {
+                    "id": 11284,
+                    "name": "700–1700 рублей",
+                    "alt_name": "700–1700 ₽",
+                    "url": "/msk/restaurants/restaurant_list/700-1700/"
+                },
+                "price_range": [
+                    0,
+                    1
+                ],
+                "metro": [
+                    {
+                        "id": 4432,
+                        "name": "Новослободская",
+                        "url": "/msk/restaurants/restaurant_list/novoslobodskaya/",
+                        "hex_color": "915133"
+                    },
+                    {
+                        "id": 4494,
+                        "name": "Менделеевская",
+                        "url": "/msk/restaurants/restaurant_list/mendeleevskaya/",
+                        "hex_color": "ADACAC"
+                    }
+                ],
+                "searchable": [
+                    {
+                        "id": 12496,
+                        "name": "Вок",
+                        "url": "/msk/restaurants/restaurant_list/vok/"
+                    },
+                    {
+                        "id": 2866,
+                        "name": "Вьетнамская кухня",
+                        "url": "/msk/restaurants/restaurant_list/vietnamese_cuisine/"
+                    },
+                    {
+                        "id": 3177,
+                        "name": "Кафе",
+                        "url": "/msk/restaurants/restaurant_list/cafes/"
+                    },
+                    {
+                        "id": 13170,
+                        "name": "Стритфуд",
+                        "url": "/msk/restaurants/restaurant_list/streetfood/"
+                    }
+                ]
+            },
+            "offer_special": null,
+            "offer_menu": null,
+            "offer_news": null,
+            "extra_info": {
+                "work_time": "пн-вс 11.00–23.00",
+                "phone": "+7 965 162 78 77",
+                "phone_list": [
+                    "+7 965 162 78 77"
+                ],
+                "email": "",
+                "site": "http://laolee.ru",
+                "average_bill": {
+                    "id": 11284,
+                    "name": "700–1700 рублей",
+                    "alt_name": "700–1700 ₽",
+                    "url": "/msk/restaurants/restaurant_list/700-1700/"
+                },
+                "breakfast": "",
+                "business_lunch": "",
+                "delivery": false,
+                "parking": false,
+                "has_banquet": true,
+                "catering": true
+            },
+            "is_advert": false
+        },
+        {
+            "id": 47066,
+            "state": 0,
+            "name": "Винный базар на Комсомольском",
+            "url_slug": "vinnyi-bazar-na-komsomolskom-47066",
+            "reviews_count": 0,
+            "abs_url": "/msk/restaurant/vinnyi-bazar-na-komsomolskom-47066/",
+            "address": "Комсомольский просп., 14/1, корп. 2",
+            "description": "Кафе, начинавшееся как магазин с возможностью слегка закусить. В целом все так и осталось — здесь по-прежнему можно выпить не самого банального вина по цене полки, однако и винный лист, и меню существенно выросли. Здесь нет официантов, вместо них работают кависты, способные часами рассуждать о вине и уж точно ориентирующиеся в здешнем непростом ассортименте. По выходным и ближе к вечеру — не протолкнуться, однако постоянные гости готовы сидеть хоть друг у друга на головах; периодически (часто) устраиваются дегустации. Второе заведение под этим же брендом работает на Никитском бульваре.",
+            "verdict": "Винный бар, магазин и все что хотите",
+            "rating": 9.217,
+            "city_id": 2,
+            "has_selection": true,
+            "has_afisha_booking": true,
+            "afisha_booking_object": {
+                "is_active": true,
+                "widget_message": ""
+            },
+            "remarked_booking_object": null,
+            "has_tomesto": true,
+            "tomesto_url": "https://tomesto.ru/moskva/places/vinnyy-bazar-komsomolskiy?aff_id=45&utm_source=afisha.ru&utm_medium=cpa&utm_campaign=book#book",
+            "tastyclub_data": null,
+            "latitude": 55.7313744,
+            "longitude": 37.5899837,
+            "likes": 245,
+            "dislikes": 29,
+            "open_date": null,
+            "main_photo_legacy": "https://s.afisha.ru/mediastorage/7a/39/6c12e29d761e4351834cf610397a.jpg",
+            "cover_images": {
+                "rest1894x1000": "https://img04.rl0.ru/afisha/1894x1000i/s3.afisha.ru/mediastorage/d6/cd/9c047cc94e9a4b4785aad129cdd6.jpg",
+                "rest1064x1064": "https://img04.rl0.ru/afisha/1064x1064i/s3.afisha.ru/mediastorage/d6/cd/9c047cc94e9a4b4785aad129cdd6.jpg"
+            },
+            "owner_info": {
+                "description": "Сетевой винный бар ресторатора Евгении Качаловой. Вино предлагают выбирать в бутылках со стеллажей. Всего на полках около 200 вин из различных регионов и порядка 20 позиций вин по бокалам. Меню собрали в соответствии с форматом: вся еда отлично дополняет вина. В небольшом меню, за которое отвечает бренд-шеф Олег Кусов, сосредоточились на сетах сыров и мяса, и на закусках: подают сицилийские оливки, паштет из вяленых томатов, тартар из говядины с грецким орехом и брускетты. В горячем пара паст, блюда из мидий, индейки и тальята. Обходя стороной модные веяния и сложносочинённые подачи, в Винном Базаре создано безупречное в своей простоте меню,которое, тем самым, заслужило доверие и постоянство гостей!"
+            },
+            "restaurant_type": "Винотека",
+            "userdata": {
+                "is_favourite": false,
+                "like": 0,
+                "review_id": null,
+                "review_like": null
+            },
+            "menu_objects": [],
+            "working_hours_objects": [
+                {
+                    "day": "понедельник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "13:00:00",
+                    "time_end": "01:00:00",
+                    "time_start_v2": 780,
+                    "time_end_v2": 1500
+                },
+                {
+                    "day": "вторник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "13:00:00",
+                    "time_end": "01:00:00",
+                    "time_start_v2": 780,
+                    "time_end_v2": 1500
+                },
+                {
+                    "day": "среда",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "13:00:00",
+                    "time_end": "01:00:00",
+                    "time_start_v2": 780,
+                    "time_end_v2": 1500
+                },
+                {
+                    "day": "четверг",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "13:00:00",
+                    "time_end": "02:00:00",
+                    "time_start_v2": 780,
+                    "time_end_v2": 1560
+                },
+                {
+                    "day": "пятница",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "13:00:00",
+                    "time_end": "02:00:00",
+                    "time_start_v2": 780,
+                    "time_end_v2": 1560
+                },
+                {
+                    "day": "суббота",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "13:00:00",
+                    "time_end": "02:00:00",
+                    "time_start_v2": 780,
+                    "time_end_v2": 1560
+                },
+                {
+                    "day": "воскресенье",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "13:00:00",
+                    "time_end": "01:00:00",
+                    "time_start_v2": 780,
+                    "time_end_v2": 1500
+                }
+            ],
+            "tags": {
+                "main_tag": {
+                    "id": 12993,
+                    "name": "Винотеки",
+                    "url": "/msk/restaurants/restaurant_list/vinoteca/"
+                },
+                "cuisine": [
+                    {
+                        "id": 2750,
+                        "name": "Европейская кухня",
+                        "url": "/msk/restaurants/restaurant_list/european_cuisine/"
+                    }
+                ],
+                "average_bill": {
+                    "id": 11284,
+                    "name": "700–1700 рублей",
+                    "alt_name": "700–1700 ₽",
+                    "url": "/msk/restaurants/restaurant_list/700-1700/"
+                },
+                "price_range": [
+                    0,
+                    1
+                ],
+                "metro": [
+                    {
+                        "id": 4369,
+                        "name": "Парк культуры",
+                        "url": "/msk/restaurants/restaurant_list/park_kultury/",
+                        "hex_color": "E42313"
+                    },
+                    {
+                        "id": 4370,
+                        "name": "Фрунзенская",
+                        "url": "/msk/restaurants/restaurant_list/frunzenskaya/",
+                        "hex_color": "E42313"
+                    }
+                ],
+                "searchable": [
+                    {
+                        "id": 2750,
+                        "name": "Европейская кухня",
+                        "url": "/msk/restaurants/restaurant_list/european_cuisine/"
+                    },
+                    {
+                        "id": 3014,
+                        "name": "Бары",
+                        "url": "/msk/restaurants/restaurant_list/bars/"
+                    },
+                    {
+                        "id": 12993,
+                        "name": "Винотеки",
+                        "url": "/msk/restaurants/restaurant_list/vinoteca/"
+                    }
+                ]
+            },
+            "offer_special": null,
+            "offer_menu": null,
+            "offer_news": null,
+            "extra_info": {
+                "work_time": "пн-ср, вс 13.00–1.00, чт-сб 13.00–2.00",
+                "phone": "+7 (499) 246 64 66",
+                "phone_list": [
+                    "+7 (499) 246 64 66"
+                ],
+                "email": "",
+                "site": "http://vinniybazar.ru",
+                "average_bill": {
+                    "id": 11284,
+                    "name": "700–1700 рублей",
+                    "alt_name": "700–1700 ₽",
+                    "url": "/msk/restaurants/restaurant_list/700-1700/"
+                },
+                "breakfast": "",
+                "business_lunch": "",
+                "delivery": true,
+                "parking": true,
+                "has_banquet": true,
+                "catering": false
+            },
+            "is_advert": false
+        },
+        {
+            "id": 40916,
+            "state": 0,
+            "name": "Lumberjack Bar",
+            "url_slug": "lumberjack-bar-40916",
+            "reviews_count": 1,
+            "abs_url": "/msk/restaurant/lumberjack-bar-40916/",
+            "address": "Б.Спасоглинищевский пер., 3, стр. 5",
+            "description": "Татуированные бородачи, интеллигентные пьяницы, бурбон и бургеры — простейшая бизнес-формула; Lumberjack придерживается ее со дня открытия. Таких мест в Москве с каждым годом все больше, однако «Лесоруб» с его мужиковатым обаянием был одним из первых и остается одним из лучших в этой не терпящей фальши лиге.",
+            "verdict": "Негромкий бар на «Китай-городе»",
+            "rating": 9.047,
+            "city_id": 2,
+            "has_selection": false,
+            "has_afisha_booking": false,
+            "afisha_booking_object": null,
+            "remarked_booking_object": null,
+            "has_tomesto": false,
+            "tomesto_url": "",
+            "tastyclub_data": null,
+            "latitude": 55.7564345,
+            "longitude": 37.6352306,
+            "likes": 444,
+            "dislikes": 63,
+            "open_date": "2013-08-15 00:00:00",
+            "main_photo_legacy": "",
+            "cover_images": {
+                "rest1894x1000": "https://img04.rl0.ru/afisha/1894x1000i/s5.afisha.ru/mediastorage/c2/3a/9473303612a34e76a8dc396a3ac2.jpg",
+                "rest1064x1064": "https://img04.rl0.ru/afisha/1064x1064i/s5.afisha.ru/mediastorage/c2/3a/9473303612a34e76a8dc396a3ac2.jpg"
+            },
+            "owner_info": null,
+            "restaurant_type": "Бар",
+            "userdata": {
+                "is_favourite": false,
+                "like": 0,
+                "review_id": null,
+                "review_like": null
+            },
+            "menu_objects": [],
+            "working_hours_objects": [
+                {
+                    "day": "понедельник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "15:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 900,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "вторник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "15:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 900,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "среда",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "15:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 900,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "четверг",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "15:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 900,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "пятница",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "15:00:00",
+                    "time_end": "03:00:00",
+                    "time_start_v2": 900,
+                    "time_end_v2": 1620
+                },
+                {
+                    "day": "суббота",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "15:00:00",
+                    "time_end": "03:00:00",
+                    "time_start_v2": 900,
+                    "time_end_v2": 1620
+                },
+                {
+                    "day": "воскресенье",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "15:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 900,
+                    "time_end_v2": 1440
+                }
+            ],
+            "tags": {
+                "main_tag": {
+                    "id": 3014,
+                    "name": "Бары",
+                    "url": "/msk/restaurants/restaurant_list/bars/"
+                },
+                "cuisine": [
+                    {
+                        "id": 2728,
+                        "name": "Американская кухня",
+                        "url": "/msk/restaurants/restaurant_list/american_cuisine/"
+                    },
+                    {
+                        "id": 12976,
+                        "name": "Бургеры",
+                        "url": "/msk/restaurants/restaurant_list/burger/"
+                    },
+                    {
+                        "id": 2750,
+                        "name": "Европейская кухня",
+                        "url": "/msk/restaurants/restaurant_list/european_cuisine/"
+                    },
+                    {
+                        "id": 12982,
+                        "name": "Сэндвичи",
+                        "url": "/msk/restaurants/restaurant_list/sandwich/"
+                    }
+                ],
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "price_range": [
+                    0,
+                    1,
+                    2
+                ],
+                "metro": [
+                    {
+                        "id": 4471,
+                        "name": "Китай-город",
+                        "url": "/msk/restaurants/restaurant_list/msk_kitay-gorod/",
+                        "hex_color": "943E90"
+                    }
+                ],
+                "searchable": [
+                    {
+                        "id": 2728,
+                        "name": "Американская кухня",
+                        "url": "/msk/restaurants/restaurant_list/american_cuisine/"
+                    },
+                    {
+                        "id": 12976,
+                        "name": "Бургеры",
+                        "url": "/msk/restaurants/restaurant_list/burger/"
+                    },
+                    {
+                        "id": 2750,
+                        "name": "Европейская кухня",
+                        "url": "/msk/restaurants/restaurant_list/european_cuisine/"
+                    },
+                    {
+                        "id": 12982,
+                        "name": "Сэндвичи",
+                        "url": "/msk/restaurants/restaurant_list/sandwich/"
+                    },
+                    {
+                        "id": 3014,
+                        "name": "Бары",
+                        "url": "/msk/restaurants/restaurant_list/bars/"
+                    },
+                    {
+                        "id": 12996,
+                        "name": "Коктейльная карта",
+                        "url": "/msk/restaurants/restaurant_list/cocktail_list/"
+                    }
+                ]
+            },
+            "offer_special": null,
+            "offer_menu": null,
+            "offer_news": null,
+            "extra_info": {
+                "work_time": "пн-чт, вс 15.00–0.00, пт-сб 15.00–3.00",
+                "phone": "+7 967 061 00 06",
+                "phone_list": [
+                    "+7 967 061 00 06"
+                ],
+                "email": "",
+                "site": "",
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "breakfast": "",
+                "business_lunch": "",
+                "delivery": false,
+                "parking": false,
+                "has_banquet": false,
+                "catering": false
+            },
+            "is_advert": false
+        },
+        {
+            "id": 30165,
+            "state": 0,
+            "name": "Боэми",
+            "url_slug": "boemi-30165",
+            "reviews_count": 1,
+            "abs_url": "/msk/restaurant/boemi-30165/",
+            "address": "Рочдельская, 11/5",
+            "description": "",
+            "verdict": "Адекватное отражение сербской кухни",
+            "rating": 9.0356,
+            "city_id": 2,
+            "has_selection": false,
+            "has_afisha_booking": false,
+            "afisha_booking_object": null,
+            "remarked_booking_object": null,
+            "has_tomesto": false,
+            "tomesto_url": "",
+            "tastyclub_data": null,
+            "latitude": 55.7564016,
+            "longitude": 37.5701998,
+            "likes": 109,
+            "dislikes": 7,
+            "open_date": null,
+            "main_photo_legacy": "https://s4.afisha.ru/mediastorage/44/e3/287e0b1470de45209b0bda92e344.jpg",
+            "cover_images": {
+                "rest1894x1000": "https://img04.rl0.ru/afisha/1894x1000i/s3.afisha.ru/ms/Ct-BWpUHflv_tBpQ20-Nr9owLr9cnr5mt1pEOoEhNac.jpg",
+                "rest1064x1064": "https://img04.rl0.ru/afisha/1064x1064i/s3.afisha.ru/ms/Ct-BWpUHflv_tBpQ20-Nr9owLr9cnr5mt1pEOoEhNac.jpg"
+            },
+            "owner_info": {
+                "description": "Сербская кухня — это смешение (так исторический сложилось) разных кулинарных традиций, которое со временем превратилось в качественно иное, самобытное явление. В ресторане «Боэми» мы предлагаем своим гостям отведать деликатесы и специалитеты из Сербии и с Адриатического побережья: каймак и пршут, «айвар», чорбы, молодая ягнятина «под сачем», плескавица, домашняя колбаса, чевапчичи, ризотто черное, белое и красное, рыба и морепродукты."
+            },
+            "restaurant_type": "Ресторан",
+            "userdata": {
+                "is_favourite": false,
+                "like": 0,
+                "review_id": null,
+                "review_like": null
+            },
+            "menu_objects": [],
+            "working_hours_objects": [
+                {
+                    "day": "понедельник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "вторник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "среда",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "четверг",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "пятница",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "суббота",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1380
+                },
+                {
+                    "day": "воскресенье",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "23:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1380
+                }
+            ],
+            "tags": {
+                "main_tag": {
+                    "id": 2938,
+                    "name": "Сербская кухня",
+                    "url": "/msk/restaurants/restaurant_list/serbian_cuisine/"
+                },
+                "cuisine": [
+                    {
+                        "id": 2938,
+                        "name": "Сербская кухня",
+                        "url": "/msk/restaurants/restaurant_list/serbian_cuisine/"
+                    }
+                ],
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "price_range": [
+                    0,
+                    1,
+                    2
+                ],
+                "metro": [
+                    {
+                        "id": 4434,
+                        "name": "Краснопресненская",
+                        "url": "/msk/restaurants/restaurant_list/krasnopresnenskaya/",
+                        "hex_color": "915133"
+                    },
+                    {
+                        "id": 4468,
+                        "name": "Баррикадная",
+                        "url": "/msk/restaurants/restaurant_list/barrikadnaya/",
+                        "hex_color": "943E90"
+                    }
+                ],
+                "searchable": [
+                    {
+                        "id": 2938,
+                        "name": "Сербская кухня",
+                        "url": "/msk/restaurants/restaurant_list/serbian_cuisine/"
+                    }
+                ]
+            },
+            "offer_special": null,
+            "offer_menu": null,
+            "offer_news": null,
+            "extra_info": {
+                "work_time": "пн-вс 12.00–23.00",
+                "phone": "+7 (495) 605 07 96, +7 962 994 17 60",
+                "phone_list": [
+                    "+7 (495) 605 07 96",
+                    " +7 962 994 17 60"
+                ],
+                "email": "info@boemirestoran.ru",
+                "site": "http://www.boemirestoran.ru",
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "breakfast": "",
+                "business_lunch": "",
+                "delivery": true,
+                "parking": true,
+                "has_banquet": true,
+                "catering": true
+            },
+            "is_advert": false
+        },
+        {
+            "id": 197026,
+            "state": 0,
+            "name": "Scrocchiarella",
+            "url_slug": "scrocchiarella-197026",
+            "reviews_count": 1,
+            "abs_url": "/msk/restaurant/scrocchiarella-197026/",
+            "address": "Покровка, 1/13/6, стр. 2",
+            "description": "Специализируется ресторан на римском варианте пиццы — тонкой, с хрустящей корочкой, именно так и переводится название «скрокьярелла» с итальянского — «хрустящая». Ее делают вытянутой прямоугольной формы, на выбор есть четыре размера, одинаковые по ширине (27 см): 35, 60 или 80 см в длину, а также половина самой маленькой пиццы. Цена зависит от размера, а не от начинок, которых целых 15 и все они интересные. Есть, например, «Средиземноморская» с пепперони, тунцом, артишоками и черри; с окороком и салатом айсберг; с беконом, копченым сулугуни, тыквенным соусом и шпинатом; с запеченной индейкой, маскарпоне, яблоком и гранатом или с кебабом из баранины и халапеньо. Подают пиццу на деревянной доске-лопате. Кроме этого есть паста и супы.",
+            "verdict": "Тонкая пицца на лопате",
+            "rating": 9.0258,
+            "city_id": 2,
+            "has_selection": true,
+            "has_afisha_booking": true,
+            "afisha_booking_object": {
+                "is_active": true,
+                "widget_message": ""
+            },
+            "remarked_booking_object": null,
+            "has_tomesto": false,
+            "tomesto_url": "",
+            "tastyclub_data": null,
+            "latitude": 55.7585516,
+            "longitude": 37.63948,
+            "likes": 195,
+            "dislikes": 29,
+            "open_date": "2016-03-17 00:00:00",
+            "main_photo_legacy": "https://s.afisha.ru/mediastorage/32/5d/2c579871f2a34805923ba4855d32.jpg",
+            "cover_images": {
+                "rest1894x1000": "https://img03.rl0.ru/afisha/1894x1000i/www.afisha.ru/uploads/images/3/8f/38f8703913a74654b982fef8e58ee840.jpg",
+                "rest1064x1064": "https://img03.rl0.ru/afisha/1064x1064i/www.afisha.ru/uploads/images/3/8f/38f8703913a74654b982fef8e58ee840.jpg"
+            },
+            "owner_info": null,
+            "restaurant_type": "Ресторан",
+            "userdata": {
+                "is_favourite": false,
+                "like": 0,
+                "review_id": null,
+                "review_like": null
+            },
+            "menu_objects": [
+                {
+                    "type": "Основное меню",
+                    "href": "https://www.afisha.ru/uploads/menu/4/f/40fabdc2-d785-4170-a21b-3e59ff03542b.pdf"
+                },
+                {
+                    "type": "Ланчи",
+                    "href": "https://www.afisha.ru/uploads/menu/0/2/0f207dd5-ae58-40d6-8ec7-6db9eafe4b57.pdf"
+                },
+                {
+                    "type": "Завтраки",
+                    "href": "https://www.afisha.ru/uploads/menu/a/4/a44f7e64-1cd0-419c-8579-1fb6095de58c.pdf"
+                }
+            ],
+            "working_hours_objects": [
+                {
+                    "day": "понедельник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "09:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 540,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "вторник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "09:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 540,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "среда",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "09:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 540,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "четверг",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "09:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 540,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "пятница",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "09:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 540,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "суббота",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "воскресенье",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                }
+            ],
+            "tags": {
+                "main_tag": {
+                    "id": 12981,
+                    "name": "Пицца",
+                    "url": "/msk/restaurants/restaurant_list/pizza/"
+                },
+                "cuisine": [
+                    {
+                        "id": 2930,
+                        "name": "Итальянская кухня",
+                        "url": "/msk/restaurants/restaurant_list/italian_kitchen/"
+                    },
+                    {
+                        "id": 12978,
+                        "name": "Паста",
+                        "url": "/msk/restaurants/restaurant_list/pasta/"
+                    },
+                    {
+                        "id": 12981,
+                        "name": "Пицца",
+                        "url": "/msk/restaurants/restaurant_list/pizza/"
+                    }
+                ],
+                "average_bill": {
+                    "id": 11284,
+                    "name": "700–1700 рублей",
+                    "alt_name": "700–1700 ₽",
+                    "url": "/msk/restaurants/restaurant_list/700-1700/"
+                },
+                "price_range": [
+                    0,
+                    1
+                ],
+                "metro": [
+                    {
+                        "id": 4471,
+                        "name": "Китай-город",
+                        "url": "/msk/restaurants/restaurant_list/msk_kitay-gorod/",
+                        "hex_color": "943E90"
+                    }
+                ],
+                "searchable": [
+                    {
+                        "id": 2930,
+                        "name": "Итальянская кухня",
+                        "url": "/msk/restaurants/restaurant_list/italian_kitchen/"
+                    },
+                    {
+                        "id": 12978,
+                        "name": "Паста",
+                        "url": "/msk/restaurants/restaurant_list/pasta/"
+                    },
+                    {
+                        "id": 12981,
+                        "name": "Пицца",
+                        "url": "/msk/restaurants/restaurant_list/pizza/"
+                    }
+                ]
+            },
+            "offer_special": null,
+            "offer_menu": null,
+            "offer_news": null,
+            "extra_info": {
+                "work_time": "пн-пт 9.00–0.00, сб-вс 10.00–0.00",
+                "phone": "+7 925 107 31 74",
+                "phone_list": [
+                    "+7 925 107 31 74"
+                ],
+                "email": "info@scrocchiarella-pizza.ru",
+                "site": "http://pokrovka.scrocchiarella-pizza.ru",
+                "average_bill": {
+                    "id": 11284,
+                    "name": "700–1700 рублей",
+                    "alt_name": "700–1700 ₽",
+                    "url": "/msk/restaurants/restaurant_list/700-1700/"
+                },
+                "breakfast": "пн-пт 9.00–12.00, сб-вс 10.00–12.00",
+                "business_lunch": "",
+                "delivery": true,
+                "parking": true,
+                "has_banquet": true,
+                "catering": false
+            },
+            "is_advert": false
+        },
+        {
+            "id": 39327,
+            "state": 0,
+            "name": "Энтузиаст",
+            "url_slug": "entuziast-39327",
+            "reviews_count": 0,
+            "abs_url": "/msk/restaurant/entuziast-39327/",
+            "address": "Столешников пер., 7, стр. 5",
+            "description": "Кафе во дворах Столешникова переулка, созданное участниками Clevermoto. «Энтузиаст» — словно идеальное место из берлинского Кройцберга: с 10 до 13 подают завтраки за 300 рублей (глазунья, скрэмбл, омлет и кофе от кооператива «Черный»), с 13 до 16 — обеды за 350 (салат, суп, половинка сэндвича и чай), в меню всегда разнообразные сэндвичи (с курицей, семгой, тунцом или вегетарианский), кесадилья, куриный паштет, кукурузные чипсы и домашние десерты. В баре наливают несколько сортов пива, сидр, лимонады. Есть отличный виниловый уголок Enthusiast Records с авторской подборкой раритетных пластинок от Сергея Крылова. По субботам здесь играют местные и заезжие диджеи, по воскресеньям показывают фильмы-концерты, по средам крутят просто фильмы от друзей заведения. Тут же можно приобрести авторские постеры Дмитрия Пантюшина или футболку с логотипом «Энтузиаста». В теплое время года можно расположиться на веранде во дворе.",
+            "verdict": "Кафе как в берлинском Кройцберге",
+            "rating": 9.025,
+            "city_id": 2,
+            "has_selection": false,
+            "has_afisha_booking": false,
+            "afisha_booking_object": null,
+            "remarked_booking_object": null,
+            "has_tomesto": false,
+            "tomesto_url": "",
+            "tastyclub_data": null,
+            "latitude": 55.76384,
+            "longitude": 37.614153,
+            "likes": 299,
+            "dislikes": 37,
+            "open_date": "2013-05-17 00:00:00",
+            "main_photo_legacy": "https://s1.afisha.ru/mediastorage/a0/95/029b6ec334e6495da0772ee095a0.jpg",
+            "cover_images": {
+                "rest1894x1000": "https://img04.rl0.ru/afisha/1894x1000i/s1.afisha.ru/mediastorage/9f/01/64720a8cde034c9daf43652c019f.jpeg",
+                "rest1064x1064": "https://img04.rl0.ru/afisha/1064x1064i/s1.afisha.ru/mediastorage/9f/01/64720a8cde034c9daf43652c019f.jpeg"
+            },
+            "owner_info": null,
+            "restaurant_type": "Кафе",
+            "userdata": {
+                "is_favourite": false,
+                "like": 0,
+                "review_id": null,
+                "review_like": null
+            },
+            "menu_objects": [],
+            "working_hours_objects": [
+                {
+                    "day": "понедельник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "вторник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "среда",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "четверг",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "пятница",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "10:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 600,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "суббота",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "воскресенье",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                }
+            ],
+            "tags": {
+                "main_tag": {
+                    "id": 3177,
+                    "name": "Кафе",
+                    "url": "/msk/restaurants/restaurant_list/cafes/"
+                },
+                "cuisine": [
+                    {
+                        "id": 2728,
+                        "name": "Американская кухня",
+                        "url": "/msk/restaurants/restaurant_list/american_cuisine/"
+                    },
+                    {
+                        "id": 12976,
+                        "name": "Бургеры",
+                        "url": "/msk/restaurants/restaurant_list/burger/"
+                    },
+                    {
+                        "id": 12982,
+                        "name": "Сэндвичи",
+                        "url": "/msk/restaurants/restaurant_list/sandwich/"
+                    }
+                ],
+                "average_bill": {
+                    "id": 11283,
+                    "name": "До 700 рублей",
+                    "alt_name": "До 700 ₽",
+                    "url": "/msk/restaurants/restaurant_list/less700/"
+                },
+                "price_range": [
+                    0
+                ],
+                "metro": [
+                    {
+                        "id": 4384,
+                        "name": "Тверская",
+                        "url": "/msk/restaurants/restaurant_list/tverskaya/",
+                        "hex_color": "4FB04F"
+                    },
+                    {
+                        "id": 4469,
+                        "name": "Пушкинская",
+                        "url": "/msk/restaurants/restaurant_list/pushkinskaya/",
+                        "hex_color": "943E90"
+                    },
+                    {
+                        "id": 4496,
+                        "name": "Чеховская",
+                        "url": "/msk/restaurants/restaurant_list/chehovskaya/",
+                        "hex_color": "ADACAC"
+                    }
+                ],
+                "searchable": [
+                    {
+                        "id": 2728,
+                        "name": "Американская кухня",
+                        "url": "/msk/restaurants/restaurant_list/american_cuisine/"
+                    },
+                    {
+                        "id": 12976,
+                        "name": "Бургеры",
+                        "url": "/msk/restaurants/restaurant_list/burger/"
+                    },
+                    {
+                        "id": 12982,
+                        "name": "Сэндвичи",
+                        "url": "/msk/restaurants/restaurant_list/sandwich/"
+                    },
+                    {
+                        "id": 3177,
+                        "name": "Кафе",
+                        "url": "/msk/restaurants/restaurant_list/cafes/"
+                    },
+                    {
+                        "id": 3043,
+                        "name": "Концерты",
+                        "url": "/msk/restaurants/restaurant_list/concerts/"
+                    }
+                ]
+            },
+            "offer_special": null,
+            "offer_menu": null,
+            "offer_news": null,
+            "extra_info": {
+                "work_time": "пн-пт 10.00–0.00, сб-вс 12.00–0.00",
+                "phone": "",
+                "phone_list": [
+                    ""
+                ],
+                "email": "",
+                "site": "",
+                "average_bill": {
+                    "id": 11283,
+                    "name": "До 700 рублей",
+                    "alt_name": "До 700 ₽",
+                    "url": "/msk/restaurants/restaurant_list/less700/"
+                },
+                "breakfast": "пн-пт 10.00–13.00",
+                "business_lunch": "пн-пт 13.00–16.00",
+                "delivery": false,
+                "parking": true,
+                "has_banquet": false,
+                "catering": false
+            },
+            "is_advert": false
+        },
+        {
+            "id": 47489,
+            "state": 0,
+            "name": "I Like Wine",
+            "url_slug": "i-like-wine-47489",
+            "reviews_count": 1,
+            "abs_url": "/msk/restaurant/i-like-wine-47489/",
+            "address": "Покровка, 16",
+            "description": "В заведении ресторатора Владимира Перельмана к вину разной степени сложности обнаруживаются изящные закуски по объяснимым ценам. Есть даже легендарный хамон, который подают как в виде нарезки, так и более изысканно: в паре с брускеттой и томатами, в также с картофельными крокетами и сыром таледжо. А ещё периодически устраивают тематические винные ужины и привозят знаменитых виноделов, формируя таким образом городское винное комьюнити.",
+            "verdict": "Винный бар на Покровке",
+            "rating": 9.017,
+            "city_id": 2,
+            "has_selection": false,
+            "has_afisha_booking": false,
+            "afisha_booking_object": null,
+            "remarked_booking_object": null,
+            "has_tomesto": false,
+            "tomesto_url": "",
+            "tastyclub_data": null,
+            "latitude": 55.7592044,
+            "longitude": 37.6457206,
+            "likes": 511,
+            "dislikes": 61,
+            "open_date": "2014-08-01 00:00:00",
+            "main_photo_legacy": "https://s.afisha.ru/mediastorage/62/df/0c978d7c734b4a17b16ea6b4df62.jpg",
+            "cover_images": {
+                "rest1894x1000": "https://img04.rl0.ru/afisha/1894x1000i/s3.afisha.ru/mediastorage/0a/ba/b406d951e5b04c3bb445a53eba0a.jpg",
+                "rest1064x1064": "https://img04.rl0.ru/afisha/1064x1064i/s3.afisha.ru/mediastorage/0a/ba/b406d951e5b04c3bb445a53eba0a.jpg"
+            },
+            "owner_info": {
+                "description": "Первый демократичный винный гастробар от ресторатора Владимира Перельмана, в котором главное — вино.\r\n\r\nКухня — под неусыпным контролем бренд-шефа Дмитрия Парикова, собравшего в меню блюда, как нельзя лучше рифмующиеся с бокалом вина. И речь не только о сырах: здесь есть где разгуляться как убежденным мясоедам и любителям морепродуктов, так и вегетарианцам. А чтобы не прерывать эногастрономический эксперимент, возвращайтесь сюда на следующий день завтракать или обедать.\r\n \r\nГлавное в I Like Wine — это вино, и отношение к нему показательно почтительное: шутка ли, более 100 позиций, основу которых составляют редкие экземпляры.\r\n\r\nНо не ждите свойственного продвинутым винотекам снобизма — его здесь нет! Примкнуть к стройным рядам винолюбов в I I Like Wine проще простого. Следуйте указателям, разделяющим вина в карте по вкусам: белые — свежие и легкие, ароматные и фруктовые или насыщенные и богатые, красные — элегантные и бархатистые, пряные и пикантные или мощные и комплексные.\r\n \r\nИ смело пробуйте все: благодаря чудо-девайсу Coravin почти любое вино в I Like Wine доступно по бокалам."
+            },
+            "restaurant_type": "Винотека",
+            "userdata": {
+                "is_favourite": false,
+                "like": 0,
+                "review_id": null,
+                "review_like": null
+            },
+            "menu_objects": [],
+            "working_hours_objects": [
+                {
+                    "day": "понедельник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "вторник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "среда",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "четверг",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "02:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1560
+                },
+                {
+                    "day": "пятница",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "02:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1560
+                },
+                {
+                    "day": "суббота",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "02:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1560
+                },
+                {
+                    "day": "воскресенье",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                }
+            ],
+            "tags": {
+                "main_tag": {
+                    "id": 12993,
+                    "name": "Винотеки",
+                    "url": "/msk/restaurants/restaurant_list/vinoteca/"
+                },
+                "cuisine": [
+                    {
+                        "id": 2750,
+                        "name": "Европейская кухня",
+                        "url": "/msk/restaurants/restaurant_list/european_cuisine/"
+                    },
+                    {
+                        "id": 2930,
+                        "name": "Итальянская кухня",
+                        "url": "/msk/restaurants/restaurant_list/italian_kitchen/"
+                    },
+                    {
+                        "id": 12978,
+                        "name": "Паста",
+                        "url": "/msk/restaurants/restaurant_list/pasta/"
+                    }
+                ],
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "price_range": [
+                    0,
+                    1,
+                    2
+                ],
+                "metro": [
+                    {
+                        "id": 4364,
+                        "name": "Чистые пруды",
+                        "url": "/msk/restaurants/restaurant_list/chistye_prudy/",
+                        "hex_color": "E42313"
+                    },
+                    {
+                        "id": 4445,
+                        "name": "Тургеневская",
+                        "url": "/msk/restaurants/restaurant_list/turgenevskaya/",
+                        "hex_color": "F07E24"
+                    },
+                    {
+                        "id": 4471,
+                        "name": "Китай-город",
+                        "url": "/msk/restaurants/restaurant_list/msk_kitay-gorod/",
+                        "hex_color": "943E90"
+                    },
+                    {
+                        "id": 4512,
+                        "name": "Сретенский бульвар",
+                        "url": "/msk/restaurants/restaurant_list/sretenskiy_bulvar/",
+                        "hex_color": "BED12C"
+                    }
+                ],
+                "searchable": [
+                    {
+                        "id": 2750,
+                        "name": "Европейская кухня",
+                        "url": "/msk/restaurants/restaurant_list/european_cuisine/"
+                    },
+                    {
+                        "id": 2930,
+                        "name": "Итальянская кухня",
+                        "url": "/msk/restaurants/restaurant_list/italian_kitchen/"
+                    },
+                    {
+                        "id": 12978,
+                        "name": "Паста",
+                        "url": "/msk/restaurants/restaurant_list/pasta/"
+                    },
+                    {
+                        "id": 3014,
+                        "name": "Бары",
+                        "url": "/msk/restaurants/restaurant_list/bars/"
+                    },
+                    {
+                        "id": 12993,
+                        "name": "Винотеки",
+                        "url": "/msk/restaurants/restaurant_list/vinoteca/"
+                    },
+                    {
+                        "id": 24471,
+                        "name": "Гастробары",
+                        "url": "/msk/restaurants/restaurant_list/gastrobar/"
+                    },
+                    {
+                        "id": 12996,
+                        "name": "Коктейльная карта",
+                        "url": "/msk/restaurants/restaurant_list/cocktail_list/"
+                    }
+                ]
+            },
+            "offer_special": null,
+            "offer_menu": null,
+            "offer_news": null,
+            "extra_info": {
+                "work_time": "пн-ср, вс 12.00–0.00, чт-сб 12.00–2.00",
+                "phone": "+7 (495) 928 88 59",
+                "phone_list": [
+                    "+7 (495) 928 88 59"
+                ],
+                "email": "",
+                "site": "http://www.ilikewine.ru",
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "breakfast": "пн-вс 12.00–16.00",
+                "business_lunch": "пн-пт 12.00–16.00",
+                "delivery": true,
+                "parking": false,
+                "has_banquet": true,
+                "catering": false
+            },
+            "is_advert": false
+        },
+        {
+            "id": 455745,
+            "state": 0,
+            "name": "Lucky Izakaya Bar",
+            "url_slug": "lucky-izakaya-bar-455745",
+            "reviews_count": 2,
+            "abs_url": "/msk/restaurant/lucky-izakaya-bar-455745/",
+            "address": "Б.Никитская, 23/9",
+            "description": "Паназиатский бар, организованный на японский лад; проект Ивана Кукарских, Богдана Панченко и Глена Баллиса. Кухню возглавляет Василий Зайцев (Koji), шеф-бармен — Максим Горелик. Недешево, но страшно вкусно. Надо брать что-нибудь из раздела «Кушияки», кацу из говяжьих щек, жареный рис с крабом и рисовые боулы с рыбой.",
+            "verdict": "Идзакая как образ действия",
+            "rating": 9.008,
+            "city_id": 2,
+            "has_selection": true,
+            "has_afisha_booking": false,
+            "afisha_booking_object": null,
+            "remarked_booking_object": null,
+            "has_tomesto": false,
+            "tomesto_url": "",
+            "tastyclub_data": null,
+            "latitude": 55.7573125,
+            "longitude": 37.5993239,
+            "likes": 1414,
+            "dislikes": 13,
+            "open_date": "2018-11-15 00:00:00",
+            "main_photo_legacy": "https://s5.afisha.ru/mediastorage/7d/3d/408bcf8304c3413b916b568a3d7d.jpg",
+            "cover_images": {
+                "rest1894x1000": "https://img03.rl0.ru/afisha/1894x1000i/s3.afisha.ru/mediastorage/9d/2c/a0cd2315e27a4bb1aa32214c2c9d.jpg",
+                "rest1064x1064": "https://img03.rl0.ru/afisha/1064x1064i/s3.afisha.ru/mediastorage/9d/2c/a0cd2315e27a4bb1aa32214c2c9d.jpg"
+            },
+            "owner_info": {
+                "description": ""
+            },
+            "restaurant_type": "Ресторан",
+            "userdata": {
+                "is_favourite": false,
+                "like": 0,
+                "review_id": null,
+                "review_like": null
+            },
+            "menu_objects": [
+                {
+                    "type": "Основное меню",
+                    "href": "https://www.afisha.ru/uploads/menu/9/2/972755d0-5621-4bda-9d02-8f1c5bd9cec3.pdf"
+                }
+            ],
+            "working_hours_objects": [
+                {
+                    "day": "понедельник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "вторник",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "среда",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "четверг",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                },
+                {
+                    "day": "пятница",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "02:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1560
+                },
+                {
+                    "day": "суббота",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "02:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1560
+                },
+                {
+                    "day": "воскресенье",
+                    "until_last_visitor": false,
+                    "by_agreement": false,
+                    "comment": "",
+                    "time_start": "12:00:00",
+                    "time_end": "00:00:00",
+                    "time_start_v2": 720,
+                    "time_end_v2": 1440
+                }
+            ],
+            "tags": {
+                "main_tag": {
+                    "id": 2939,
+                    "name": "Японская кухня",
+                    "url": "/msk/restaurants/restaurant_list/japanese_cuisine/"
+                },
+                "cuisine": [
+                    {
+                        "id": 12496,
+                        "name": "Вок",
+                        "url": "/msk/restaurants/restaurant_list/vok/"
+                    },
+                    {
+                        "id": 12770,
+                        "name": "Паназиатская кухня",
+                        "url": "/msk/restaurants/restaurant_list/panasiatisch_cuisine/"
+                    },
+                    {
+                        "id": 12984,
+                        "name": "Суши",
+                        "url": "/msk/restaurants/restaurant_list/sushi/"
+                    },
+                    {
+                        "id": 2939,
+                        "name": "Японская кухня",
+                        "url": "/msk/restaurants/restaurant_list/japanese_cuisine/"
+                    }
+                ],
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "price_range": [
+                    0,
+                    1,
+                    2
+                ],
+                "metro": [
+                    {
+                        "id": 4405,
+                        "name": "Арбатская",
+                        "url": "/msk/restaurants/restaurant_list/arbatskaya/",
+                        "hex_color": "0072BA"
+                    }
+                ],
+                "searchable": [
+                    {
+                        "id": 12496,
+                        "name": "Вок",
+                        "url": "/msk/restaurants/restaurant_list/vok/"
+                    },
+                    {
+                        "id": 12770,
+                        "name": "Паназиатская кухня",
+                        "url": "/msk/restaurants/restaurant_list/panasiatisch_cuisine/"
+                    },
+                    {
+                        "id": 12984,
+                        "name": "Суши",
+                        "url": "/msk/restaurants/restaurant_list/sushi/"
+                    },
+                    {
+                        "id": 2939,
+                        "name": "Японская кухня",
+                        "url": "/msk/restaurants/restaurant_list/japanese_cuisine/"
+                    },
+                    {
+                        "id": 12996,
+                        "name": "Коктейльная карта",
+                        "url": "/msk/restaurants/restaurant_list/cocktail_list/"
+                    }
+                ]
+            },
+            "offer_special": null,
+            "offer_menu": null,
+            "offer_news": null,
+            "extra_info": {
+                "work_time": "пн-чт, вс 12.00–0.00, пт-сб 12.00–2.00",
+                "phone": "+7 (495) 189 78 88",
+                "phone_list": [
+                    "+7 (495) 189 78 88"
+                ],
+                "email": "luckyizakayabar@gmail.com",
+                "site": "http://www.luckyizakaya.lucky-group.ru",
+                "average_bill": {
+                    "id": 11285,
+                    "name": "1700–3000 рублей",
+                    "alt_name": "1700–3000 ₽",
+                    "url": "/msk/restaurants/restaurant_list/1700-3000/"
+                },
+                "breakfast": "",
+                "business_lunch": "",
+                "delivery": true,
+                "parking": false,
+                "has_banquet": false,
+                "catering": false
+            },
+            "is_advert": false
+        }
+    ]
+}
